@@ -1,0 +1,35 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : 3
+    },
+    {
+      "trait_type" : "stamina",
+      "value" : 11.7
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "sleepy"
+    },
+    {
+      "display_type" : "boost_number",
+      "trait_type" : "aqua_power",
+      "value" : 30
+    },
+    {
+      "display_type" : "boost_percentage",
+      "trait_type" : "stamina_increase",
+      "value" : 15
+    },
+    {
+      "display_type" : "number",
+      "trait_type" : "generation",
+      "value" : 1
+    }
+  ],
+  "description" : "cannedbi test nft.",
+  "external_url" : "https://www.cannedbi.com",
+  "image" : "https://static.wixstatic.com/media/8e42fe_1a8799307d5d44daa193f155e4827bee~mv2.png/v1/fill/w_208,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/KakaoTalk_20220823_005358055.png",
+  "name" : "cannedbi"
+}

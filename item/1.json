@@ -1,0 +1,31 @@
+{
+    "name":"cannedbi #001",
+    "description":"first gen cannedbi",
+    "image":"https://raw.githubusercontent.com/chpaek/files/main/img/0001.png",
+    "attributes":[
+       {
+          "trait_type":"Type",
+          "value":"canned"
+       },
+       {
+          "trait_type":"Attributes",
+          "value":"1"
+       },
+       {
+          "trait_type":"Attribute 1",
+          "value":"violet"
+       },
+       {
+          "trait_type":"Attribute 2",
+          "value":"hatted"
+       },
+       {
+          "trait_type":"Attribute 3",
+          "value":"white underwear"
+       },
+       {
+          "trait_type":"Background",
+          "value":"Radial 3"
+       }
+    ]
+ }
